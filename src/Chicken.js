@@ -1,6 +1,6 @@
 //Data of the chicken crew
 
-const chickens = {
+export const chickens = {
     chick1: {
         name: "Dan Page",
         image: "/images/dpage.jpg",
@@ -45,7 +45,5 @@ const chickens = {
         bio: "The Lawyer of the group, Pedro is often found working throughout the night on legal matters in both the real world and in WoW.",
     },
 
-}
 };
-
-export default chickens;
+ 
