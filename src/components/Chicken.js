@@ -1,6 +1,6 @@
 //Data of the chicken crew
 
-export const chickens = {
+export const Chickens = {
     chick1: {
         name: "Dan Page",
         image: "/images/dpage.jpg",
